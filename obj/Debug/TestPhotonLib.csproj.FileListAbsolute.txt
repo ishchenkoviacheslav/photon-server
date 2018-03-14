@@ -1,0 +1,8 @@
+c:\users\user\Downloads\Photon-Server-SDK_v4-0-29-11263\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyServerFolder\bin\log4net.config
+c:\users\user\Downloads\Photon-Server-SDK_v4-0-29-11263\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyServerFolder\bin\TestPhotonLib.dll
+c:\users\user\Downloads\Photon-Server-SDK_v4-0-29-11263\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MyServerFolder\bin\TestPhotonLib.pdb
+c:\users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib\obj\Debug\TestPhotonLib.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib\obj\Debug\TestPhotonLib.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib\obj\Debug\TestPhotonLib.csproj.CopyComplete
+c:\users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib\obj\Debug\TestPhotonLib.dll
+c:\users\user\documents\visual studio 2017\Projects\TestPhotonLib\TestPhotonLib\obj\Debug\TestPhotonLib.pdb
