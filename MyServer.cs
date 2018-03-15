@@ -2,13 +2,15 @@
 using ExitGames.Logging.Log4Net;
 using log4net.Config;
 using Photon.SocketServer;
+using System;
 using System.IO;
-
+using TestPhotonLib.Common;
 
 namespace TestPhotonLib
 {
     public class MyServer : ApplicationBase
     {
+
         private readonly ILogger Log = LogManager.GetCurrentClassLogger();
 
         protected override PeerBase CreatePeer(InitRequest initRequest)

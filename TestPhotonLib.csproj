@@ -55,14 +55,25 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Chat.cs" />
     <Compile Include="MyServer.cs" />
+    <Compile Include="Operations\BaseOperation.cs" />
+    <Compile Include="Operations\Login.cs" />
+    <Compile Include="Operations\ChatMessage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnityClient.cs" />
+    <Compile Include="World.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="log4net.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TestPhotonLib.Common\TestPhotonLib.Common.csproj">
+      <Project>{fcb4d26a-d143-49b0-ad01-e7c07e3bc984}</Project>
+      <Name>TestPhotonLib.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
